@@ -14,7 +14,7 @@
 α consenti.
 • Le niveau de signification du test est souvent fixé à 0.05 ou 0.01,
 mais ce seuil est arbitraire est toute autre valeur peut être choisie.
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikram messaoud" height="30" width="40" /></a>
+" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/ikram-messaoud-08466b335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" alt="ikram messaoud" height="30" width="40" /></a>
 <a href="https://kaggle.com/ikrammessaoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ikrammessaoud" height="30" width="40" /></a>
 <a href="https://instagram.com/xraaaaaaam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xraaaaaaam_" height="30" width="40" /></a>
 </p>
