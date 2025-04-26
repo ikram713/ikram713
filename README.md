@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Ikram Messaoud</h1>
 <h3 align="center">A passionate backend developer from Algeria</h3>
 
@@ -10,8 +9,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ikram-messaoud-08466b335" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ikram Messaoud" height="30" width="40" /></a>
 <a href="https://kaggle.com/ikrammessaoud" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ikrammessaoud" height="30" width="40" /></a>
-<a href="https://fb.com/mïss ikram" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mïss ikram" height="30" width="40" /></a>
-<a href="https://instagram.com/xraaaaaaam_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xraaaaaaam_" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1EPs2xSiJo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/xraaaaaaam_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,4 +29,5 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
+
 
