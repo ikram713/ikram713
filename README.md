@@ -9,7 +9,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ikram messaoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikram messaoud" height="30" width="40" /></a>
+<a href="Le choix du niveau du test :
+• Le niveau de signification du test est le risque de première espèce
+α consenti.
+• Le niveau de signification du test est souvent fixé à 0.05 ou 0.01,
+mais ce seuil est arbitraire est toute autre valeur peut être choisie.
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikram messaoud" height="30" width="40" /></a>
 <a href="https://kaggle.com/ikrammessaoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ikrammessaoud" height="30" width="40" /></a>
 <a href="https://instagram.com/xraaaaaaam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xraaaaaaam_" height="30" width="40" /></a>
 </p>
