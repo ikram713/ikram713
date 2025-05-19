@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ikram Messaoud</h1>
 <h3 align="center">A passionate backend developer from Algeria</h3>
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **machine learning with tenserflow and scklearn**
 
 - 📫 How to reach me: **ikrammessaoud181@gmail.com**
 
