@@ -40,17 +40,7 @@
       <td style="padding: 12px; border: 1px solid #ddd;">
         <a href="https://www.python.org" target="_blank" rel="noopener" title="Python">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener" title="JavaScript">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://www.java.com" target="_blank" rel="noopener" title="Java">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-        </a>
-        <br/>
-        Python &nbsp;&nbsp; JavaScript &nbsp;&nbsp; Java
+        </a><br/>Python
       </td>
       <td style="padding: 12px; border: 1px solid #ddd;">
         <a href="https://www.mongodb.com/" target="_blank" rel="noopener" title="MongoDB">
@@ -74,7 +64,11 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
         </a><br/>Express.js
       </td>
-      <td style="padding: 12px; border: 1px solid #ddd;"></td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener" title="JavaScript">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+        </a><br/>JavaScript
+      </td>
       <td style="padding: 12px; border: 1px solid #ddd;">
         <a href="https://www.mysql.com/" target="_blank" rel="noopener" title="MySQL">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
@@ -97,7 +91,11 @@
           <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" />
         </a><br/>Spring
       </td>
-      <td style="padding: 12px; border: 1px solid #ddd;"></td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <a href="https://www.java.com" target="_blank" rel="noopener" title="Java">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+        </a><br/>Java
+      </td>
       <td style="padding: 12px; border: 1px solid #ddd;"></td>
       <td style="padding: 12px; border: 1px solid #ddd;"></td>
     </tr>
@@ -114,6 +112,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 
