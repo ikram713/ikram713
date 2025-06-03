@@ -60,6 +60,9 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noopener" title="MongoDB">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
 </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noopener" title="MySQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+</a>
 
 <br/><br/>
 
