@@ -59,7 +59,9 @@
     <td align="center">
       <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a><br/>Express
     </td>
-    <td></td>
+    <td align="center">
+      <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><br/>MySQL
+    </td>
     <td align="center">
       <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a><br/>Postman
     </td>
@@ -120,3 +122,4 @@
     </td>
   </tr>
 </table>
+
