@@ -26,93 +26,86 @@
     </tr>
   </thead>
   <tbody>
-    <tr style="text-align: center; border: 1px solid #ddd; background-color: #f9f9f9;" onmouseover="this.style.backgroundColor='#e8f5e9';" onmouseout="this.style.backgroundColor='#f9f9f9';">
+    <tr style="text-align: center; border: 1px solid #ddd; background-color: #f9f9f9;">
       <td style="padding: 12px; border: 1px solid #ddd;">
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener" title="CSS3">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-        </a>
-        <br/>CSS3
+        </a><br/>CSS3
       </td>
       <td style="padding: 12px; border: 1px solid #ddd;">
         <a href="https://nodejs.org" target="_blank" rel="noopener" title="Node.js">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-        </a>
-        <br/>Node.js
+        </a><br/>Node.js
       </td>
       <td style="padding: 12px; border: 1px solid #ddd;">
         <a href="https://www.python.org" target="_blank" rel="noopener" title="Python">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
         </a>
-        <br/>Python
+        &nbsp;&nbsp;
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener" title="JavaScript">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://www.java.com" target="_blank" rel="noopener" title="Java">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+        </a>
+        <br/>
+        Python &nbsp;&nbsp; JavaScript &nbsp;&nbsp; Java
       </td>
       <td style="padding: 12px; border: 1px solid #ddd;">
         <a href="https://www.mongodb.com/" target="_blank" rel="noopener" title="MongoDB">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-        </a>
-        <br/>MongoDB
+        </a><br/>MongoDB
       </td>
       <td style="padding: 12px; border: 1px solid #ddd;">
         <a href="https://www.linux.org/" target="_blank" rel="noopener" title="Linux">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-        </a>
-        <br/>Linux
+        </a><br/>Linux
       </td>
     </tr>
-    <tr style="text-align: center; border: 1px solid #ddd;" onmouseover="this.style.backgroundColor='#e8f5e9';" onmouseout="this.style.backgroundColor='white';">
+    <tr style="text-align: center; border: 1px solid #ddd;">
       <td style="padding: 12px; border: 1px solid #ddd;">
         <a href="https://getbootstrap.com" target="_blank" rel="noopener" title="Bootstrap">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-        </a>
-        <br/>Bootstrap
+        </a><br/>Bootstrap
       </td>
       <td style="padding: 12px; border: 1px solid #ddd;">
         <a href="https://expressjs.com" target="_blank" rel="noopener" title="Express.js">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
-        </a>
-        <br/>Express.js
+        </a><br/>Express.js
       </td>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener" title="JavaScript">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-        </a>
-        <br/>JavaScript
-      </td>
+      <td style="padding: 12px; border: 1px solid #ddd;"></td>
       <td style="padding: 12px; border: 1px solid #ddd;">
         <a href="https://www.mysql.com/" target="_blank" rel="noopener" title="MySQL">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-        </a>
-        <br/>MySQL
+        </a><br/>MySQL
       </td>
       <td style="padding: 12px; border: 1px solid #ddd;">
         <a href="https://www.figma.com/" target="_blank" rel="noopener" title="Figma">
           <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-        </a>
-        <br/>Figma
+        </a><br/>Figma
       </td>
     </tr>
-    <tr style="text-align: center; border: 1px solid #ddd; background-color: #f9f9f9;" onmouseover="this.style.backgroundColor='#e8f5e9';" onmouseout="this.style.backgroundColor='#f9f9f9';">
+    <tr style="text-align: center; border: 1px solid #ddd; background-color: #f9f9f9;">
       <td style="padding: 12px; border: 1px solid #ddd;">
         <a href="https://www.w3.org/html/" target="_blank" rel="noopener" title="HTML5">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-        </a>
-        <br/>HTML5
+        </a><br/>HTML5
       </td>
       <td style="padding: 12px; border: 1px solid #ddd;">
         <a href="https://spring.io/" target="_blank" rel="noopener" title="Spring Framework">
           <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" />
-        </a>
-        <br/>Spring
+        </a><br/>Spring
       </td>
       <td style="padding: 12px; border: 1px solid #ddd;"></td>
       <td style="padding: 12px; border: 1px solid #ddd;"></td>
       <td style="padding: 12px; border: 1px solid #ddd;"></td>
     </tr>
-    <tr style="text-align: center; border: 1px solid #ddd;" onmouseover="this.style.backgroundColor='#e8f5e9';" onmouseout="this.style.backgroundColor='white';">
+    <tr style="text-align: center; border: 1px solid #ddd;">
       <td style="padding: 12px; border: 1px solid #ddd;">
         <a href="https://flutter.dev" target="_blank" rel="noopener" title="Flutter">
           <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
-        </a>
-        <br/>Flutter
+        </a><br/>Flutter
       </td>
       <td style="padding: 12px; border: 1px solid #ddd;"></td>
       <td style="padding: 12px; border: 1px solid #ddd;"></td>
