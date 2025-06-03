@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **machine learning with tensorflow**
+- 🌱 I’m currently learning **machine learning with tensorflow  and SKlearn**
 
 - 🎨 Fun fact: I’m also a designer — I love creating clean and user-friendly interfaces.
 
