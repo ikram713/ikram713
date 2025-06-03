@@ -3,7 +3,15 @@
 
 - 🌱 I’m currently learning **machine learning with tenserflow and scikit-learn**
 
-- 📫 How to reach me: **ikrammessaoud181@gmail.com**
+- 🎨 Fun fact: I’m also a designer — I love creating clean and user-friendly interfaces.
+
+- 🎮 When I’m not coding, I enjoy playing CTF (Capture The Flag) to sharpen my cybersecurity skills and have fun.
+
+- 🚀 Always eager to learn new technologies and improve problem-solving skills.
+
+- 📫 Feel free to reach out at:  ikrammessaoud181@gmail.com
+
+- 🔗 Let’s connect and collaborate on exciting projects!
 
 ### 🛠️ Languages and Tools
 
