@@ -71,7 +71,7 @@
       <td align="center" style="padding:10px;"><a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a><br/><strong>TensorFlow</strong></td>
     </tr>
     <tr>
-      <td align="center" style="padding:10px;"><a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a><br/><strong>Android</strong></td>
+      <td align="center" style="padding:10px;"></td>
       <td></td>
       <td></td>
       <td align="center" style="padding:10px;"><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a><br/><strong>Linux</strong></td>
