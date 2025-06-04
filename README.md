@@ -24,7 +24,6 @@
 </p>
 
 <h3 align="left">🚀 Languages and Tools:</h3>
-
 <table style="width:100%; border-collapse: collapse;">
   <thead>
     <tr style="background-color: #f2f2f2;">
@@ -61,21 +60,21 @@
       <td align="center" style="padding:10px;"><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a><br/><strong>CSS3</strong></td>
       <td></td>
       <td></td>
-      <td align="center" style="padding:10px;"><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/></a><br/><strong>Illustrator</strong></td>
+      <td align="center" style="padding:10px;"><a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40"/></a><br/><strong>Jupyter</strong></td>
       <td align="center" style="padding:10px;"><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a><br/><strong>Seaborn</strong></td>
     </tr>
     <tr>
       <td align="center" style="padding:10px;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a><br/><strong>JavaScript</strong></td>
       <td></td>
       <td></td>
-      <td align="center" style="padding:10px;"><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a><br/><strong>Linux</strong></td>
+      <td align="center" style="padding:10px;"><a href="https://www.kaggle.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="40" height="40"/></a><br/><strong>Kaggle</strong></td>
       <td align="center" style="padding:10px;"><a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a><br/><strong>TensorFlow</strong></td>
     </tr>
     <tr>
       <td align="center" style="padding:10px;"><a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a><br/><strong>Android</strong></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td align="center" style="padding:10px;"><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a><br/><strong>Linux</strong></td>
       <td></td>
     </tr>
   </tbody>
