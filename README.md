@@ -85,6 +85,11 @@
 </table>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikram713&show_icons=true&locale=en&layout=compact" alt="ikram713" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikram713&show_icons=true&locale=en" alt="ikram713" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikram713&" alt="ikram713" /></p>
 
 
 
