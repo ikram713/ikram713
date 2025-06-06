@@ -75,7 +75,7 @@
       <td align="center" style="padding:12px;"><a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60" height="60"/></a><br/><strong>TensorFlow</strong></td>
     </tr>
     <tr>
-      <td align="center" style="padding:12px;"></td>
+      <td></td>
       <td></td>
       <td></td>
       <td align="center" style="padding:12px;"><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60"/></a><br/><strong>Linux</strong></td>
