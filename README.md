@@ -27,62 +27,49 @@
 
 </p>
 
-<h3 align="left">🚀 Languages and Tools:</h3>
-<table style="width: 100%; border-collapse: collapse; font-size: 16px;">
-  <thead>
-    <tr style="background-color: #f2f2f2;">
-      <th style="text-align:center; padding: 12px; border: 1px solid #ddd;">Frontend</th>
-      <th style="text-align:center; padding: 12px; border: 1px solid #ddd;">Backend</th>
-      <th style="text-align:center; padding: 12px; border: 1px solid #ddd;">Database</th>
-      <th style="text-align:center; padding: 12px; border: 1px solid #ddd;">Tools</th>
-      <th style="text-align:center; padding: 12px; border: 1px solid #ddd;">AI / ML</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="padding:12px;"><a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60" height="60"/></a><br/><strong>Flutter</strong></td>
-      <td align="center" style="padding:12px;"><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/></a><br/><strong>Node.js</strong></td>
-      <td align="center" style="padding:12px;"><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/></a><br/><strong>MongoDB</strong></td>
-      <td align="center" style="padding:12px;"><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/></a><br/><strong>Git</strong></td>
-      <td align="center" style="padding:12px;"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/></a><br/><strong>Python</strong></td>
-    </tr>
-    <tr>
-      <td align="center" style="padding:12px;"><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" height="60"/></a><br/><strong>Bootstrap</strong></td>
-      <td align="center" style="padding:12px;"><a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60" height="60"/></a><br/><strong>Express</strong></td>
-      <td align="center" style="padding:12px;"><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/></a><br/><strong>MySQL</strong></td>
-      <td align="center" style="padding:12px;"><a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60"/></a><br/><strong>Postman</strong></td>
-      <td align="center" style="padding:12px;"><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="60" height="60"/></a><br/><strong>Pandas</strong></td>
-    </tr>
-    <tr>
-      <td align="center" style="padding:12px;"><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" height="60"/></a><br/><strong>HTML5</strong></td>
-      <td align="center" style="padding:12px;"><a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="60" height="60"/></a><br/><strong>NestJS</strong></td>
-      <td></td>
-      <td align="center" style="padding:12px;"><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" height="60"/></a><br/><strong>Figma</strong></td>
-      <td align="center" style="padding:12px;"><a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60"/></a><br/><strong>Scikit-learn</strong></td>
-    </tr>
-    <tr>
-      <td align="center" style="padding:12px;"><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" height="60"/></a><br/><strong>CSS3</strong></td>
-      <td></td>
-      <td></td>
-      <td align="center" style="padding:12px;"><a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="60" height="60"/></a><br/><strong>Jupyter</strong></td>
-      <td align="center" style="padding:12px;"><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60"/></a><br/><strong>Seaborn</strong></td>
-    </tr>
-    <tr>
-      <td align="center" style="padding:12px;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/></a><br/><strong>JavaScript</strong></td>
-      <td></td>
-      <td></td>
-      <td align="center" style="padding:12px;"><a href="https://www.kaggle.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="60" height="60"/></a><br/><strong>Kaggle</strong></td>
-      <td align="center" style="padding:12px;"><a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60" height="60"/></a><br/><strong>TensorFlow</strong></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td align="center" style="padding:12px;"><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60"/></a><br/><strong>Linux</strong></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+## 🚀 Languages and Tools
+
+### 🖥️ Frontend
+<p>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" title="Flutter"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" title="Bootstrap"/>
+</p>
+
+### 🛠️ Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" title="Express"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" title="NestJS"/>
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" title="Jupyter"/>
+</p>
+
+### 🧠 AI / Machine Learning
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" title="Seaborn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-learn"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" title="TensorFlow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="40" title="Kaggle"/>
+</p>
+
 
 
 
