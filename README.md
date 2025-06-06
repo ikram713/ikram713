@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="left">🚀 Languages and Tools:</h3>
-<table style="width: 1200px; border-collapse: collapse; font-size: 16px;">
+<table style="width: 100%; border-collapse: collapse; font-size: 16px;">
   <thead>
     <tr style="background-color: #f2f2f2;">
       <th style="text-align:center; padding: 12px; border: 1px solid #ddd;">Frontend</th>
