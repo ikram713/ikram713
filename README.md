@@ -17,14 +17,27 @@
 
 
  ### 🤝 Connect with Me:
+### 📫 How to reach me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/ikram-messaoud-08466b335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikram messaoud" height="30" width="40" /></a>
-<a href="https://kaggle.com/ikrammessaoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ikrammessaoud" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/16oDeTxd6x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ikram messaoud" height="30" width="40" /></a>
-<a href="https://www.instagram.com/xraaaaam_?igsh=ZGQwcDhrdXBiMG9q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xraaaaaaam_" height="30" width="40" /></a>
-<a href="https://discord.gg/AsuaFdWh" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
-</a>
+  
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="25">  
+  **LinkedIn**: [Ikram Messaoud](https://www.linkedin.com/in/ikram-messaoud-08466b335)
+
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="20" width="25">  
+  **Kaggle**: [ikrammessaoud](https://kaggle.com/ikrammessaoud)
+
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="20" width="25">  
+  **Facebook**: [Visit my profile](https://www.facebook.com/share/16oDeTxd6x/)
+
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="20" width="25">  
+  **Instagram**: [@xraaaaam_](https://www.instagram.com/xraaaaam_?igsh=ZGQwcDhrdXBiMG9q)
+
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="20" width="25">  
+  **Discord**: [Join me](https://discord.gg/AsuaFdWh)
+
+</p>
+
 
 </p>
 
