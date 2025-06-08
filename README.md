@@ -13,6 +13,8 @@
 
 - 🚀 Always eager to learn new technologies and improve problem-solving skills.
 
+- 🔗 Let’s connect and collaborate on exciting projects!
+
 
 
 
