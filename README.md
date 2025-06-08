@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikram713&label=Profile%20views&color=0e75b6&style=flat" alt="ikram713" /> </p>
 
 
- ## 👨‍💻 About Me:
+ ### 👨‍💻 About Me:
 
 - 🌱 I’m currently learning **machine learning with tensorflow  and SKlearn**
 
@@ -16,7 +16,7 @@
 - 🔗 Let’s connect and collaborate on exciting projects!
 
 
- ## 🤝 Connect with Me:
+ ### 🤝 Connect with Me:
 <p align="left">
 <a href="https://www.linkedin.com/in/ikram-messaoud-08466b335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikram messaoud" height="30" width="40" /></a>
 <a href="https://kaggle.com/ikrammessaoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ikrammessaoud" height="30" width="40" /></a>
