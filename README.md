@@ -16,7 +16,7 @@
 - 🔗 Let’s connect and collaborate on exciting projects!
 
 
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect with Me:
 <p align="left">
 <a href="https://www.linkedin.com/in/ikram-messaoud-08466b335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikram messaoud" height="30" width="40" /></a>
 <a href="https://kaggle.com/ikrammessaoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ikrammessaoud" height="30" width="40" /></a>
