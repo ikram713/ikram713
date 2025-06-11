@@ -56,15 +56,16 @@
 
 
 
-<!-- Top Languages -->
+<!-- Top Languages (Dark Purple) -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikram713&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikram713&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats (Dark Purple) -->
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikram713&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikram713&theme=purple_dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 
 
