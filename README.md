@@ -1,13 +1,3 @@
-<!-- Pixel Art Header -->
-<p align="center">
-  <img src="bb99b23d-5605-44bd-8f60-46f2f7e4bea6.png" alt="Pixel Art Banner" width="100%" />
-</p>
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ikram713&label=Profile%20views&color=0e75b6&style=flat" alt="ikram713" />
-</p>
-
 
 
 <h1 align="center">Hi 👋, I'm ikram messaoud</h1>
