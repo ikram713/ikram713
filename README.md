@@ -33,136 +33,71 @@
 
 
 </p>
-
-### 🛠️ Languages and Tools:
-Here are the languages, frameworks, and tools I work with:
+# My Favorite Tools and Technologies
 
 <div align="center">
-  <div class="tools-container">
-    <div class="tool-item">
-      <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/>
-      <span>HTML5</span>
-    </div>
-    <div class="tool-item">
-      <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"/>
-      <span>CSS3</span>
-    </div>
-    <div class="tool-item">
-      <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-      <span>JavaScript</span>
-    </div>
-    <div class="tool-item">
-      <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/>
-      <span>MySQL</span>
-    </div>
-    <div class="tool-item">
-      <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
-      <span>MongoDB</span>
-    </div>
-    <div class="tool-item">
-      <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
-      <span>Node.js</span>
-    </div>
-    <div class="tool-item">
-      <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/>
-      <span>Git</span>
-    </div>
-    <div class="tool-item">
-      <img class="tool-icon" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"/>
-      <span>Postman</span>
-    </div>
-    <div class="tool-item">
-      <img class="tool-icon" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma"/>
-      <span>Figma</span>
-    </div>
-    <div class="tool-item">
-      <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter"/>
-      <span>Jupyter</span>
-    </div>
-    <div class="tool-item">
-      <img class="tool-icon" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle"/>
-      <span>Kaggle</span>
-    </div>
-    <div class="tool-item">
-      <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"/>
-      <span>Linux</span>
-    </div>
-    <div class="tool-item">
-      <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
-      <span>Python</span>
-    </div>
-    <div class="tool-item">
-      <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas"/>
-      <span>Pandas</span>
-    </div>
-    <div class="tool-item">
-      <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/>
-      <span>TensorFlow</span>
-    </div>
-    <div class="tool-item">
-      <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js"/>
-      <span>Express.js</span>
-    </div>
+
+| Frontend       | Backend      | Languages     | Databases    | DevOps       |
+|----------------|--------------|---------------|--------------|--------------|
+| ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg "HTML5") HTML5 | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg "Node.js") Node.js | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg "JavaScript") JavaScript | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg "MySQL") MySQL | ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg "Git") Git |
+| ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg "CSS3") CSS3 | ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg "Express") Express | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "Python") Python | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg "MongoDB") MongoDB | ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg "Linux") Linux |
+| ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg "React") React | ![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg "Django") Django | ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg "TypeScript") TypeScript | ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg "PostgreSQL") PostgreSQL | ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg "Docker") Docker |
+
+</div>
+
+## Dynamic Version
+
+For a more interactive display, here's an animated version of my tech stack:
+
+```html
+<div class="tech-grid">
+  <!-- ROW 1 -->
+  <div class="tech-item">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
+    <span>HTML5</span>
   </div>
+  <div class="tech-item">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js">
+    <span>Node.js</span>
+  </div>
+  <!-- Add all other items in similar fashion -->
 </div>
 
 <style>
-  .tools-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
-    gap: 20px;
-    padding: 20px;
-    max-width: 800px;
-    margin: 0 auto;
-  }
-  
-  .tool-item {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    transition: all 0.3s ease;
-    animation: float 6s ease-in-out infinite;
-  }
-  
-  .tool-item:hover {
-    transform: scale(1.2) rotate(10deg);
-    animation: none;
-  }
-  
-  .tool-icon {
-    width: 50px;
-    height: 50px;
-    object-fit: contain;
-    filter: grayscale(30%);
-    transition: filter 0.3s ease;
-  }
-  
-  .tool-item:hover .tool-icon {
-    filter: grayscale(0%);
-  }
-  
-  .tool-item span {
-    margin-top: 8px;
-    font-size: 12px;
-    color: #555;
-    opacity: 0;
-    transition: opacity 0.3s ease;
-  }
-  
-  .tool-item:hover span {
-    opacity: 1;
-  }
-  
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
-  }
-  
-  @keyframes rotate {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
+.tech-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 15px;
+  padding: 20px;
+}
+
+.tech-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: all 0.3s ease;
+}
+
+.tech-item img {
+  width: 40px;
+  height: 40px;
+  transition: transform 0.3s ease;
+}
+
+.tech-item:hover img {
+  transform: rotate(15deg) scale(1.2);
+}
+
+.tech-item span {
+  margin-top: 5px;
+  font-size: 12px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.tech-item:hover span {
+  opacity: 1;
+}
 </style>
 
 📊 GitHub Stats
