@@ -33,42 +33,39 @@
 
 
 </p>
-# My Favorite Tools and Technologies
+# My Tech Stack
 
 <div align="center">
+  
+## Dynamic Tech Stack Display
 
-| Frontend       | Backend      | Languages     | Databases    | DevOps       |
-|----------------|--------------|---------------|--------------|--------------|
-| ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg "HTML5") HTML5 | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg "Node.js") Node.js | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg "JavaScript") JavaScript | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg "MySQL") MySQL | ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg "Git") Git |
-| ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg "CSS3") CSS3 | ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg "Express") Express | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "Python") Python | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg "MongoDB") MongoDB | ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg "Linux") Linux |
-| ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg "React") React | ![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg "Django") Django | ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg "TypeScript") TypeScript | ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg "PostgreSQL") PostgreSQL | ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg "Docker") Docker |
-
-</div>
-
-## Dynamic Version
-
-For a more interactive display, here's an animated version of my tech stack:
-
-```html
-<div class="tech-grid">
-  <!-- ROW 1 -->
+<div class="tech-stack">
+  <!-- Row 1 -->
   <div class="tech-item">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
     <span>HTML5</span>
   </div>
   <div class="tech-item">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js">
-    <span>Node.js</span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">
+    <span>CSS3</span>
   </div>
-  <!-- Add all other items in similar fashion -->
+  <div class="tech-item">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
+    <span>JavaScript</span>
+  </div>
+  <!-- Add all other items following the same pattern -->
+</div>
+
 </div>
 
 <style>
-.tech-grid {
+.tech-stack {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 15px;
+  grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+  gap: 20px;
   padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .tech-item {
@@ -76,20 +73,29 @@ For a more interactive display, here's an animated version of my tech stack:
   flex-direction: column;
   align-items: center;
   transition: all 0.3s ease;
+  animation: float 4s ease-in-out infinite;
+}
+
+.tech-item:nth-child(odd) {
+  animation-delay: 0.5s;
+}
+
+.tech-item:hover {
+  transform: scale(1.1) rotate(10deg);
+  animation: none;
 }
 
 .tech-item img {
-  width: 40px;
-  height: 40px;
-  transition: transform 0.3s ease;
+  filter: grayscale(20%);
+  transition: filter 0.3s ease;
 }
 
 .tech-item:hover img {
-  transform: rotate(15deg) scale(1.2);
+  filter: grayscale(0%);
 }
 
 .tech-item span {
-  margin-top: 5px;
+  margin-top: 8px;
   font-size: 12px;
   opacity: 0;
   transition: opacity 0.3s ease;
@@ -97,6 +103,16 @@ For a more interactive display, here's an animated version of my tech stack:
 
 .tech-item:hover span {
   opacity: 1;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes rotate {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
 }
 </style>
 
