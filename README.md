@@ -7,8 +7,6 @@
 
 
 
-<p align="center">I'm a passionate software developer with a strong focus on backend development, currently expanding my skills in Deep Learning and modern web technologies.</p>
-
 <h3>👨‍💻 About Me:</h3>
 
 
