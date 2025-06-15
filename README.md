@@ -4,7 +4,13 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikram713&label=Profile%20views&color=0e75b6&style=flat" alt="ikram713" /> </p>
+
+
+
+<p align="center">I'm a passionate software developer with a strong focus on backend development, currently expanding my skills in Deep Learning and modern web technologies.</p>
+
 <h3>👨‍💻 About Me:</h3>
+
 
 - 🌱 I’m currently learning **Deep learning and NestJS**
 
