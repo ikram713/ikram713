@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikram713&label=Profile%20views&color=0e75b6&style=flat" alt="ikram713" /> </p>
 <h3>👨‍💻 About Me:</h3>
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **Deep learning and NestJS**
 
 - 🎨 Fun fact: I’m also a designer — I love creating clean and user-friendly interfaces.
 
