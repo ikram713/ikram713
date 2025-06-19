@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=ikram713&label=Profile%20views&color=0e75b6&style=flat" alt="ikram713" />
 </p>
 
----
+
 
 ### 👨‍💻 About Me
 
@@ -21,7 +21,7 @@
 - 🚀 Always eager to explore new technologies and improve my problem-solving skills  
 - 🤝 Let’s connect and collaborate on exciting projects!
 
----
+
 
 ### 🌐 Connect with Me
 
@@ -33,7 +33,6 @@
   <a href="https://discord.gg/AsuaFdWh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="30"/></a>
 </p>
 
----
 
 ### 🛠️ Languages & Tools
 
@@ -56,7 +55,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
 </p>
 
----
+
 
 ### 📊 GitHub Stats
 
