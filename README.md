@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/ikram-messaoud-08466b335" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/></a>
   <a href="https://kaggle.com/ikrammessaoud" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="30"/></a>
   <a href="https://www.facebook.com/share/16oDeTxd6x/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30"/></a>
-  <a href="[https://www.instagram.com/xraaaaam_?igsh=ZGQwcDhrdXBiMG9q](https://www.instagram.com/ikr._.rm/)" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/></a>
+  <a href="https://www.instagram.com/ikr._.rm/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/></a>
   <a href="https://discord.gg/AsuaFdWh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="30"/></a>
 </p>
 
