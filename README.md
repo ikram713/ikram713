@@ -23,15 +23,30 @@
 
 
 
-### 🌐 Connect with Me
+<h3 align="left">🌐 Connect with Me</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ikram-messaoud-08466b335" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/></a>
-  <a href="https://kaggle.com/ikrammessaoud" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="30"/></a>
-  <a href="https://www.facebook.com/share/16oDeTxd6x/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30"/></a>
-  <a href="https://www.instagram.com/ikr._.rm/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/></a>
-  <a href="https://discord.gg/AsuaFdWh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="30"/></a>
+<p>
+  <a href="https://www.linkedin.com/in/ikram-messaoud-08466b335" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://kaggle.com/ikrammessaoud" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  
+  <a href="https://www.facebook.com/share/16oDeTxd6x/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  
+  <a href="https://www.instagram.com/ikr._.rm/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="https://discord.gg/AsuaFdWh" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
+
 
 
 ### 🛠️ Languages & Tools
