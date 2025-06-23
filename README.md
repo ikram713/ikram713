@@ -72,6 +72,13 @@
 
 
 
+## 🟩 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikram713&theme=radical&hide_border=true" alt="GitHub Contribution Graph"/>
+</p>
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
