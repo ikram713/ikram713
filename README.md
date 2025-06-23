@@ -76,11 +76,6 @@
 
 
 <p align="center">
-  <!-- GitHub Streak (dynamic daily contributions) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikram713&theme=radical&hide_border=true" alt="Streak Stats" />
-</p>
-
-<p align="center">
   <!-- GitHub Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikram713&theme=radical&hide_border=true" alt="Contribution Graph" />
 </p>
