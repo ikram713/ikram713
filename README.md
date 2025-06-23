@@ -11,11 +11,11 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently learning **Deep Learning** and **NestJS**  
-- 🎨 Fun fact: I’m also a designer — I love creating clean and user-friendly interfaces  
-- 🎮 I enjoy playing CTF challenges to sharpen my cybersecurity skills  
-- 🚀 Always eager to explore new technologies and improve my problem-solving skills  
-- 🤝 Let’s connect and collaborate on exciting projects!
+-  Currently learning **Deep Learning** and **NestJS**  
+-  Fun fact: I’m also a designer — I love creating clean and user-friendly interfaces  
+-  I enjoy playing CTF challenges to sharpen my cybersecurity skills  
+-  Always eager to explore new technologies and improve my problem-solving skills  
+-  Let’s connect and collaborate on exciting projects!
 
 
 
