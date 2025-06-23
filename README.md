@@ -76,12 +76,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ikram713&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikram713&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikram713&layout=compact&theme=radical&hide_border=true" width="48%"/>
 </p>
-
 
 
 
