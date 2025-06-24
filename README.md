@@ -71,7 +71,7 @@
 
 
 
-## 🟩 GitHub Contribution Graph
+##  GitHub Contribution Graph
 
 
 <p align="center">
