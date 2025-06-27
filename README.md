@@ -117,6 +117,5 @@
 
 
 ### 📈 My GitHub Contributions
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ikram713&theme=github-compact)
-
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ikram713&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
