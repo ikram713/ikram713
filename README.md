@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">👋 Hi there! I'm Ikram Messaoud</h1>
-<h3 align="center">🚀 Full-Stack Developer | AI Enthusiast | Cybersecurity Explorer</h3>
+<h3 align="center">🚀 Backend Developer | AI Enthusiast r</h3>
 
 ---
 
