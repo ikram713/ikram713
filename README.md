@@ -112,19 +112,10 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ikram713&theme=radical" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikram713&show_icons=true&locale=en&layout=compact&theme=radical" alt="ikram713" />
-</div>
+
 
 ---
 
-<!-- 🎶 Spotify Playing -->
-### 🎶 Currently Coding To
-[![Spotify](https://novatorem-ikram713.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ikram713&label=Profile%20views&color=0e75b6&style=flat" alt="ikram713" />
-</div>
 
 
 
