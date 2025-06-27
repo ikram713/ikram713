@@ -10,12 +10,6 @@
   </p>
 </div>
 
-<!-- 🏆 GitHub Trophies -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ikram713&theme=onedark&row=2&column=4" alt="ikram713" />
-  </a>
-</div>
 
 ---
 
@@ -104,12 +98,6 @@
 </p>
 
 ---
-
-<!-- 📊 GitHub Stats -->
-### 📊 GitHub Stats
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ikram713&show_icons=true&theme=radical" />
-</div>
 
 
 ---
