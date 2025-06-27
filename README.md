@@ -114,8 +114,6 @@
 
 ---
 
-
-### 🌸 My Contributions
-![Snake animation](https://github.com/ikram713/ikram713/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://github.com/ikram713/ikram713/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+### 📈 My GitHub Contributions
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ikram713&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=ff66b2&line=9e4c98&point=f5d7e3&area=true&area_color=d8b4fe)
 
