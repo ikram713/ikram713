@@ -8,11 +8,6 @@
   <h3>💻 Full-Stack Developer | 🤖 AI Enthusiast</h3>
   <br>
   
-  <p align="center">
-    <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue" />
-    <img src="https://img.shields.io/badge/Focus-Deep%20Learning-orange" />
-    <img src="https://img.shields.io/badge/Mindset-Build--Break--Learn-blueviolet" />
-  </p>
 </div>
 
 
