@@ -112,11 +112,11 @@
 </div>
 
 
-
 ---
 
 
 
-
+### 📈 My GitHub Contributions
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ikram713&theme=github-compact)
 
 
