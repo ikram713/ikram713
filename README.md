@@ -116,6 +116,6 @@
 
 
 
-### 📈 My GitHub Contributions
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ikram713&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/ikram713/ikram713/blob/output/github-contribution-grid-snake.svg)
 
