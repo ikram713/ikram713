@@ -5,7 +5,7 @@
 
   <br><br>
   <h1>Hi, I'm <span style="color:#00BFFF">Ikram Messaoud</span> 👋</h1>
-  <h3>💻 Full-Stack Developer | 🤖 AI & Cybersecurity Enthusiast</h3>
+  <h3>💻 Full-Stack Developer | 🤖 AI Enthusiast</h3>
   <br>
   
   <p align="center">
@@ -15,7 +15,7 @@
   </p>
 </div>
 
----
+
 
 ## 🧠 About Me
 
@@ -40,7 +40,7 @@
   </a>
 </div>
 
----
+
 
 ## 🛠️ My Tech Stack
 
@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 </p>
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -82,7 +82,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikram713&theme=radical&hide_border=true" width="90%" />
 </div>
 
----
+
 
 
 
