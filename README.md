@@ -59,10 +59,7 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikram713&show_icons=true&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikram713&layout=compact&theme=radical&hide_border=true" width="48%">
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikram713&theme=radical&hide_border=true" width="90%">
@@ -70,7 +67,3 @@
 
 ---
 
-## 👀 Visitors
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ikram713&label=Profile+Views&color=blueviolet" alt="Profile Views">
-</div>
