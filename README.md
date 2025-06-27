@@ -5,7 +5,6 @@
 
   <br><br>
   <h1>Hi, I'm <span style="color:#00BFFF">Ikram Messaoud</span> 👋</h1>
-  <h3>💻 Full-Stack Developer | 🤖 AI Enthusiast</h3>
   <br>
   
 </div>
