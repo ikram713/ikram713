@@ -115,7 +115,7 @@
 ---
 
 
-
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/ikram713/ikram713/blob/output/github-contribution-grid-snake.svg)
+### 🌸 My Contributions
+![Snake animation](https://github.com/ikram713/ikram713/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/ikram713/ikram713/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
