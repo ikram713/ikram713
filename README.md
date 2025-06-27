@@ -109,7 +109,6 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ikram713&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ikram713&theme=radical" />
 </div>
 
 
