@@ -100,8 +100,7 @@
     <!-- Main Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=ikram713&show_icons=true&theme=radical&hide_border=true&bg_color=0F0C29&title_color=6EE7B7&text_color=FFFFFF&icon_color=3B82F6" alt="GitHub Stats" style="width:48%"/>
     
-    <!-- Streak Stats -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikram713&theme=radical&hide_border=true&background=0F0C29&stroke=6EE7B7&ring=3B82F6&fire=9333EA&currStreakLabel=6EE7B7" alt="GitHub Streak" style="width:48%"/>
+   
   </div>
   
   <!-- Activity Graph -->
