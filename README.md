@@ -39,6 +39,10 @@
   <a href="https://discord.gg/ikram0951_21661" target="blank">
     <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+  <a href="https://expressjs.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+</a>
+
 </p>
 
 ---
