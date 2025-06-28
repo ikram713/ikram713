@@ -3,7 +3,6 @@
   <img src="https://github.com/ikram713/ikram713/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true" width="100%" alt="Developer Banner" />
 
   <h1 align="center">Hi 👋, I'm Ikram Messaoud</h1>
-  <h3 align="center">Passionate Backend Developer from Algeria</h3>
   
   <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3E6&center=true&vCenter=true&width=435&lines=Backend+Specialist;NestJS+Developer;AI+Enthusiast;Continuous+Learner" alt="Typing SVG" /></a>
