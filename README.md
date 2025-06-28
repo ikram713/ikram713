@@ -22,14 +22,6 @@
 
 ---
 
-<!-- 🚀 Projects and Contact -->
-### 🚀 Portfolio & Contact
-- 👨‍💻 All my projects: [Portfolio](https://my-portfolio-jrk5.vercel.app/)
-- 📫 How to reach me: **ikrammessaoud181@gmail.com**
-- 📄 Know about my experiences: [Resume](#) <!-- Add your resume link -->
-
----
-
 <!-- 🌐 Connect With Me -->
 ### 🌐 Connect With Me
 <p align="left">
