@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikram713&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikram713&theme=purple&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 </p>
 
 ---
@@ -92,7 +92,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ikram713&label=Profile%20views&color=9333EA&style=flat" alt="Profile Views"/>
-</p>
