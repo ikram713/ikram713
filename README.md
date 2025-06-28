@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikram713&theme=purple&bg_color=1a1a1a&color=ffffff&point=bb86fc&area=true&area_color=bb86fc&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikram713&theme=rose&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 </p>
 
 ---
