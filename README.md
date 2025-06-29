@@ -23,7 +23,7 @@
   <tr>
     <td width="33%" valign="top">
       <h3><font color="#6EE7B7">Current Focus</font></h3>
-      <p>Crating <strong>Backend architecture</strong> powered by NESTJS and enhancing them with <strong>AI-powered APIS</strong>.</p>
+      <p>Crating <strong>Backend architecture</strong> powered by NESTJS and EXPRESSJS and enhancing them with <strong>AI-powered APIS</strong>.</p>
     </td>
     <td width="33%" valign="top">
       <h3><font color="#3B82F6">AI Projects</font></h3>
