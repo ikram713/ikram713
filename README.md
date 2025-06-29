@@ -23,7 +23,8 @@
   <tr>
     <td width="33%" valign="top">
       <h3><font color="#6EE7B7">Current Focus</font></h3>
-      <p>Building <strong>scalable microservices</strong> with NestJS and diving deep into <strong>distributed systems</strong></p>
+      <p>Engineering <strong>scalable backend systems</strong> with NestJS and integrating <strong>AI solutions</strong> to drive intelligent features.</p>
+
     </td>
     <td width="33%" valign="top">
       <h3><font color="#3B82F6">AI Projects</font></h3>
