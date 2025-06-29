@@ -92,6 +92,4 @@
 </p>
 
 <hr />
-<p align="center" style="font-size: 14px; color: gray;">
-  Made with ❤️, caffeine ☕, and a little bit of dark mode magic — © 2025 Ikram Messaoud.
-</p>
+
