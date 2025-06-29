@@ -9,9 +9,10 @@
   </h1>
 
   <!-- Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=460&lines=Backend+Developer;NestJS+Developer;AI+Enthusiast alt="Typing SVG"/>
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=460&lines=Backend+Developer;NestJS+Developer;AI+Enthusiast" alt="Typing SVG"/>
+</a>
+
 </div>
 
 <hr />
