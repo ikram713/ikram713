@@ -17,7 +17,6 @@
 <hr />
 
 <h2>✨ About Me</h2>
-<p>Creating <strong>backend architectures</strong> powered by NestJS and enhancing them with <strong>AI-powered APIs</strong>.</p>
 
 <table>
   <tr>
