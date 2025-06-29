@@ -1,7 +1,7 @@
 <!-- 🌈 Ultimate GitHub Profile README (100% Working Version) -->
 <div align="center">
   <!-- Banner Image -->
-  <img src="https://github.com/ikram713/ikram713/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true" width="100%"/>
+  <img src="https://github.com/ikram713/ikram713/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true" width="100%" alt="Ikram's Banner"/>
 
   <!-- Title -->
   <h1 align="center">
@@ -14,61 +14,57 @@
   </a>
 </div>
 
----
+<hr />
 
-### ✨ About Me
+<h2>✨ About Me</h2>
 
 <table>
-  <!-- Row 1 -->
   <tr>
     <td width="33%" valign="top">
       <h3><font color="#6EE7B7">Current Focus</font></h3>
-      <p>Engineering <strong>scalable backend systems</strong> with NestJS and integrating <strong>AI solutions</strong> to drive intelligent features.</p>
-
+      <p>Building <strong>scalable microservices</strong> with NestJS and diving deep into <strong>distributed systems</strong>.</p>
     </td>
     <td width="33%" valign="top">
       <h3><font color="#3B82F6">AI Projects</font></h3>
-      <p>Developing <strong>AI-powered APIs</strong> and exploring <strong>ML model deployment</strong></p>
+      <p>Developing <strong>AI-powered APIs</strong> and exploring <strong>ML model deployment</strong>.</p>
     </td>
     <td width="33%" valign="top">
       <h3><font color="#9333EA">Philosophy</font></h3>
-      <p>Believe in <strong>clean code</strong>, <strong>TDD</strong>, and <strong>continuous learning</strong></p>
+      <p>Believe in <strong>clean code</strong>, <strong>TDD</strong>, and <strong>continuous learning</strong>.</p>
     </td>
   </tr>
 </table>
 
----
+<hr />
 
-### 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-#### 🔧 Backend
+<h3>🔧 Backend</h3>
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-
-
 </p>
 
-#### 🗃️ Databases
+<h3>🗃️ Databases</h3>
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-#### 🧠 AI/ML
-
+<h3>🧠 AI/ML</h3>
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
 </p>
----
 
-### 📊 GitHub Stats
+<hr />
+
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ikram713&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
@@ -76,23 +72,26 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikram713&theme=rose&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ikram713&theme=rose&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 </p>
 
----
+<hr />
 
-### 🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/ikram-messaoud" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://kaggle.com/ikram-messaoud" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
   <a href="https://instagram.com/ikr._.rm" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
----
+<hr />
+<p align="center" style="font-size: 14px; color: gray;">
+  Made with ❤️, caffeine ☕, and a little bit of dark mode magic — © 2025 Ikram Messaoud.
+</p>
