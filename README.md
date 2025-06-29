@@ -17,12 +17,13 @@
 <hr />
 
 <h2>✨ About Me</h2>
+<p>Creating <strong>backend architectures</strong> powered by NestJS and enhancing them with <strong>AI-powered APIs</strong>.</p>
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <h3><font color="#6EE7B7">Current Focus</font></h3>
-      <p>Building <strong>scalable microservices</strong> with NestJS and diving deep into <strong>distributed systems</strong>.</p>
+      <p>Crating <strong>Backend architecture</strong> powered by NESTJS and enhancing them with <strong>AI-powered APIS</strong>.</p>
     </td>
     <td width="33%" valign="top">
       <h3><font color="#3B82F6">AI Projects</font></h3>
